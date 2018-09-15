@@ -8,6 +8,8 @@
 .vscode/
 zim.DSYM/
 zim
+docs/.DS_Store
+src/.DS_Store
 # Compiled Object files
 *.slo
 *.lo
